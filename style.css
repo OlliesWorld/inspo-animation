@@ -20,7 +20,7 @@ ul li
     color: #484848;
     font-size: 25px;
     letter-spacing: 15px;
-    animation: lighting 4.4s ease-out infinite;
+    animation: lighting 6.4s ease-out infinite;
 }
 @keyframes lighting 
 {
